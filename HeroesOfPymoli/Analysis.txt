@@ -1,0 +1,5 @@
+The first observation that can be made is that sorting the items by price and by popularity yields largely similar results. This means that all the purchased items were in a similar price range and no overly expensive item only purchased a few times skewed the results.
+
+The second observation is that the age group of 20-24 is by far the largest consumer of the in-game items. They purchased 365 items which is 229 more then the next highest purchase count (ages 15-19 with 136). This also translates to the total purchase value as they spent $1114.06 compared to second largest group who spent $412.89 (ages 15-19).
+
+The third observation is that Male users make up a huge percent of the player base (84.03%). This is also reflected in purchase count with Male users having a purchase count of 652 while Female users had 113 and Other/ Non-Disclosed had 15.
